@@ -141,7 +141,7 @@
 
 // TASK 4 ||||||||||||||||||||||||||||||||||||
 
-// let a = 'Hello';
+// let a = '';
 
 // const logTheLettersThreeTimes = (a) => {
 //     let result = '';
@@ -149,6 +149,8 @@
 //         for (let i = 0; i < 3; i++) {
 //             result += a[0] + a[1];
 //         }
+//     } else if (a.length == 0) {
+//         result = `So'z kiritilmadi!`;
 //     } else {
 //         for (let i = 0; i < 3; i++) {
 //             result += a[0];
